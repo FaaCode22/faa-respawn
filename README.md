@@ -1,1 +1,1 @@
-# faa-respawn
+# faa-respawn only qb-core
